@@ -1,0 +1,19 @@
+{
+  "name": "ecommers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error\" && exit 1",
+    "start": "nodemon  src/app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mongoose": "^7.3.1"
+  }
+}
